@@ -1,0 +1,9 @@
+span {
+    display: block;
+    background-color: yellow;
+}
+
+div {
+    display: inline;
+    background-color: aqua;
+}
